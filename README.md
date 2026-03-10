@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;I'm+m3chatron-dev!;You'll+proabably+see+penguins+in+my+repositories+a+lot.;Thanks+for+seeing+my+profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;I'm+m3chatron-dev!;I+like+penguins;Thanks+for+seeing+my+profile!)
 
 ## 🧑‍💻 Main Languages
 

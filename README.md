@@ -14,6 +14,5 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=m3chatron-dev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3chatron-dev&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-psi-bay-69.vercel.app/api?username=m3chatron-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-psi-bay-69.vercel.app/api/top-langs/?username=m3chatron-dev&layout=compact&theme=tokyonight)

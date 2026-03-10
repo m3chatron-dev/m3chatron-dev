@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;I'm+Arthur;JavaScript+Developer;Python+Programmer)
+
 ## Hi there 👋
 
 ## 🧑‍💻 Main Languages

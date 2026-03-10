@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 Main Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,c++,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,cpp,c)](https://skillicons.dev)
 
 ## 💻 Tech Stack
 

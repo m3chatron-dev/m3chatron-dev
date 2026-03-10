@@ -8,6 +8,10 @@
 ![CSS3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3)
 ![Node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js)
 
+## 💻 Tech Stack (alternative)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,nodejs,git,github,vscode)](https://skillicons.dev)
+
 ## 📊 GitHub Stats
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)

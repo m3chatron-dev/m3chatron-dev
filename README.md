@@ -1,5 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!;I'm+m3chatron-dev!;I+like+penguins;Thanks+for+seeing+my+profile!)
 
+### 🤝 Connect with me
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@m3chatr0n)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mdwp7FQ9Ww)
+
 ## 🧑‍💻 Main Languages
 
 [![My Skills](https://skillicons.dev/icons?i=js,python,cpp,c)](https://skillicons.dev)
